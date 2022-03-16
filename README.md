@@ -1,6 +1,6 @@
 - 👋 Hello, **I’m Kay**
 ---------------------------------
-- Certifed dumbass.
+- Certified dumbass.
 - I am working on.. Iconic Client, https://iconicclient.tk.
 - I'm learning Java at the moment, Altough I do have basic knowledge.
 - I'm looking for... Friends ;-;
