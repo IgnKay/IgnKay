@@ -1,4 +1,4 @@
-- 👋 Hello,**I’m Kay**
+- 👋 Hello, **I’m Kay**
 ---------------------------------
 - Certifed dumbass.
 - I am working on.. Iconic Client, https://iconicclient.tk.
