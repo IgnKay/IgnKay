@@ -7,5 +7,5 @@
 Contact me on twitter, https://twitter.com/ignkay. Or discord, Kay.#6969
 
 # Stats:
-[![Kay's GitHub stats](https://github-readme-stats.vercel.app/api?username=IgnKay?theme=buefy&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Kay's GitHub stats](https://github-readme-stats.vercel.app/api?username=IgnKay&theme=buefy&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
